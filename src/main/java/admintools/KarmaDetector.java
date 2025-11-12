@@ -12,6 +12,7 @@ import mindustry.gen.Icon;
 import mindustry.net.Packets;
 import mindustry.ui.Styles;
 
+
 import static mindustry.Vars.ui;
 
 public class KarmaDetector {
